@@ -21,13 +21,15 @@ pip install notebook
 pip install ultralytics==8.1.27
 pip install scikit-learn==1.4.1.post1
 ```
-**or use Colab:**
+**or Open in Colab:**
 
-***showcase_yolo.ipynb*** [![](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
+<a target="_blank" href="https://colab.research.google.com/github/EmanuelCastanho/solar_panels_detection/blob/main/solar_dataset_preparation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="SSSS"/>
+</a>
 
-***solar_dataset_preparation.ipynb*** [![](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
 
-***solar_panels_detection.ipynb*** [![](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
 
 ## Example
 
