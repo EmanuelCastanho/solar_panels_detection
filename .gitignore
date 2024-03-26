@@ -2,6 +2,9 @@
 datasets/*
 !datasets/cow-goats.jpeg
 
+# Ignore models folder
+models/*
+
 # Ignore macOS
 .DS_Store
 
