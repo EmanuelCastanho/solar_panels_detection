@@ -2,13 +2,13 @@
 
 ## About
 
-Set of jupyter notebooks created to showcase the detection capabilities of YOLOv8 computer vision model:
+Set of jupyter notebooks created to showcase the capabilities of YOLOv8 computer vision model with focus on solar panels detection:
 
-*showcase_yolo.ipynb* - A brief introduction to YOLOv8 and example of detection application using one of the default models.
+***showcase_yolo.ipynb*** - A brief introduction to YOLOv8 and example of detection application using one of the default models.
 
-*solar_dataset_preparation.ipynb* - Downloads and prepares a solar panels dataset of very-high resolution WorldView-3 satellite data.
+***solar_dataset_preparation.ipynb*** - Downloads and prepares a solar panels dataset of very-high resolution WorldView-3 satellite data.
 
-*solar_panels_detection.ipynb* - Trains a YOLOv8 model using the previous solar panels dataset and performs detection.
+***solar_panels_detection.ipynb*** - Trains a YOLOv8 model using the previous solar panels dataset and performs detection.
 
 
 ## Setup
@@ -23,11 +23,11 @@ pip install scikit-learn==1.4.1.post1
 ```
 **or open in Colab:**
 
-[![showcase_yolo.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
+[![showcase_yolo](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
 
-[![solar_dataset_preparation.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
+[![solar_dataset_preparation](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
 
-[![solar_panels_detection.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
+[![solar_panels_detection](https://colab.research.google.com/assets/colab-badge.svg)](PLACEHOLDER)
 
 ## Example
 
