@@ -1,5 +1,6 @@
-# Ignore datasets folder
+# Ignore datasets folder, except example image
 datasets/*
+!datasets/cow-goats.jpeg
 
 # Ignore macOS
 .DS_Store
