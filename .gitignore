@@ -1,6 +1,6 @@
 # Ignore datasets folder, except example image
 datasets/*
-!datasets/example-image.jpeg
+!datasets/example-image.png
 
 # Ignore models folder
 models/*
