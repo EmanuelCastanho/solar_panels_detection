@@ -24,6 +24,11 @@ pip install scikit-learn==1.4.1.post1
 **or use Colab:**
 <!-- https://openincolab.com -->
 
+***showcase_yolo.ipynb***<br>
+<a target="_blank" href="https://colab.research.google.com/github/EmanuelCastanho/solar_panels_detection/blob/main/showcase_yolo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ***solar_dataset_preparation.ipynb***<br>
 <a target="_blank" href="https://colab.research.google.com/github/EmanuelCastanho/solar_panels_detection/blob/main/solar_dataset_preparation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
