@@ -46,7 +46,7 @@ Detection on a test image of the dataset with a model based on YOLOv8x trained f
 Red bounding boxes are detected solar panels.<br>
 Model provided on request (137MB).
 
-![detection](fig.tif)
+![](Example-img.png)
 
 ## References
 
