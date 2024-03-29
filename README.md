@@ -11,7 +11,7 @@ Set of jupyter notebooks created to showcase the capabilities of YOLOv8 computer
 ***solar_panels_detection.ipynb*** - Trains a YOLOv8 model using the previous solar panels dataset and performs detection.
 
 
-## Setup
+## Setup and Run
 
 **Create an Anaconda environment:**
 ```
@@ -40,11 +40,9 @@ pip install scikit-learn==1.4.1.post1
 </a>
 
 
-## Example
+## Model
 
-Detection on a test image of the dataset with a model based on YOLOv8x trained for 100 epochs.<br>
-Red bounding boxes are detected solar panels.<br>
-Model provided on request (137MB).
+A model based on YOLOv8x trained for 100 epochs is provided on request (137MB).
 
 ![](fig.png)
 
