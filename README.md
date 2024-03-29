@@ -44,7 +44,6 @@ pip install scikit-learn==1.4.1.post1
 
 A model based on YOLOv8x trained for 100 epochs is provided on request (137MB).
 
-![](fig.png)
 
 ## References
 
