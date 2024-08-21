@@ -21,7 +21,7 @@ pip install notebook
 pip install ultralytics==8.1.27
 pip install scikit-learn==1.4.1.post1
 ```
-**or use Colab:**
+**or use Colab (needs Drive permissions):**
 <!-- https://openincolab.com -->
 
 ***showcase_yolo.ipynb***<br>
